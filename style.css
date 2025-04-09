@@ -263,7 +263,7 @@ nav {
 }
 
 .city-college-front {
-  background-image: url("/images/city-college-front.jpg");
+  background-image: url("./images/city-college-front.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
@@ -626,7 +626,7 @@ nav {
   cursor: pointer;
 }
 .footer-img {
-  background-image: url("/images/Footer-Image-2021.jpg");
+  background-image: url("./images/Footer-Image-2021.jpg");
   background-position: center;
   object-fit: cover;
   height: 500px;
